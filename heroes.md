@@ -7,3 +7,5 @@
 * Linterna Verde
 * Robin
 * Flash
+* Raven
+* Doctor Fate
