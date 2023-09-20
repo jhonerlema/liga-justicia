@@ -3,6 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Estos cambios son nuevos desde GitHub
-## Estos cambios son viejos desde mi repositorio local
-
-Ahora hago los cambios con la cuenta de jhonerlema1 
+## Estos cambios son nuevos desde mi repositorio local
